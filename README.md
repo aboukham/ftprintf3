@@ -1,2 +1,2 @@
-# ftprintf3
-project the 42
+# ft_printf_suite
+projet de 42
